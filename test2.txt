@@ -1,1 +1,1 @@
-test git 2_master new change on master
+test git 2_master new change on master_new_change_on remote
